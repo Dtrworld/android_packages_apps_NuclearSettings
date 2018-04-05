@@ -17,15 +17,15 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
     <!-- Tabs -->
-    <string name="systemui_title">System UI</string>
-    <string name="statusbar_title">Status Bar</string>
-    <string name="lockscreen_title">Lock Screen</string>
-    <string name="button_title">Buttons</string>
-    <string name="misc_title">Miscellaneous</string>
-    <string name="about_title">NuclearZone</string>
+    <string name="systemui_title">Interfaz</string>
+    <string name="statusbar_title">Barra de estado</string>
+    <string name="lockscreen_title">Pantalla de bloqueo</string>
+    <string name="button_title">Botones</string>
+    <string name="misc_title">Varios</string>
+    <string name="about_title">Zona Nuclear</string>
 
     <!-- Categorys -->
-    <string name="recents_category">Recents</string>
+    <string name="recents_category">Recientes</string>
     <string name="tweaks_category">Tweaks</string>
     <string name="battery_category">Battery styles</string>
     <string name="clock_category">Clock options</string>

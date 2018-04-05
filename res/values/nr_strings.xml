@@ -30,9 +30,9 @@
     <string name="battery_category">Battery styles</string>
     <string name="clock_category">Clock options</string>
     <string name="security_category">Security</string>
-    <string name="stock_recents_category">Stock recents</string>
-    <string name="alternative_recents_category">Alternative recents</string>
-    <string name="qs_category">QS Options</string>
+    <string name="stock_recents_category">Recientes original</string>
+    <string name="alternative_recents_category">Alternativa a Recientes</string>
+    <string name="qs_category">Opciones de Ajustes rápidos</string>
 
     <!-- (!)Dialog -->
     <string name="nr_dialog_title">Help Us, Help You!!</string>
